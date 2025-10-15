@@ -115,7 +115,8 @@ index.html
 ~~~
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-08 161717.png>)
+<img width="931" height="636" alt="Screenshot 2025-10-08 161717" src="https://github.com/user-attachments/assets/6f891059-185f-4014-85ef-999c3a43946c" />
+
 
 
 ## RESULT:
